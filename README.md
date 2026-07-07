@@ -1,5 +1,5 @@
-# DataScienceProjects
+# Data Science Projects
 
 ## Hi, my name is Kamogelo Motau
 
-### My previous and current projects will be organized here for perusal
+My previous and current projects will be organized here for perusal
